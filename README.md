@@ -1,4 +1,4 @@
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Paulo!</h1>
+<h1 align="left">Hi there 👋, I'm Paulo!</h1>
 
 
 [**Engineer and Data Scientist at Embraer**](https://www.linkedin.com/in/paulinhok14/)
