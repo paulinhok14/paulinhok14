@@ -18,3 +18,4 @@ Coding as an intellectual challange.
 </div>
           
            
+![Snake animation](https://github.com/paulinhok14/paulinhok14/blob/output/github-contribution-grid-snake.svg)
