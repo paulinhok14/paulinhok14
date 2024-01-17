@@ -17,5 +17,4 @@ Coding as an intellectual challange.
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </div>
           
-           
-![Snake animation](https://github.com/paulinhok14/paulinhok14/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/paulinhok14/paulinhok14/tree/manual-run-output/only-svg/github-contribution-grid-snake.svg)
