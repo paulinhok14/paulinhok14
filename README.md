@@ -3,7 +3,7 @@
 
 [**Engineer and Data Scientist at Embraer**](https://www.linkedin.com/in/paulinhok14/)
 
-Constant learner. Curious. Reader.
+Constant learner. Curious. Reader. Investor.
 
 Coding as an intellectual challange.
 <br>
