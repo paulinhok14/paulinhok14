@@ -6,6 +6,8 @@
 Constant learner. Curious. Reader. Investor.
 
 Coding as an intellectual challange.
+
+"Organize all the data and it will tell you a story..."
 <br>
 #### 🛠 My current stack:
 ##
