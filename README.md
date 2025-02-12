@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Paulo!</h1>
 
 
-[**Engineer and Data Scientist at Embraer**](https://www.linkedin.com/in/paulinhok14/)
+[**AI Engineer and Data Scientist at Embraer**](https://www.linkedin.com/in/paulinhok14/)
 
 Constant learner. Curious. Reader. Investor.
 
