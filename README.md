@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Paulo!</h1>
 
 
-[**AI Engineer and Data Scientist at Loka**](https://www.linkedin.com/in/paulinhok14/)
+[**Senior AI/ML Engineer at Loka**](https://www.linkedin.com/in/paulinhok14/)
 
 Constant learner. Curious. Reader. Investor.
 
