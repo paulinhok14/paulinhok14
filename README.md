@@ -3,7 +3,7 @@
 
 [**Senior AI/ML Engineer at Loka, Inc.**](https://www.linkedin.com/in/paulinhok14/)
 
-Constant learner. Curious. Reader. Investor.
+Lifelong learner. Curious. Reader. Investor.
 
 Coding as an intellectual challange.
 
