@@ -9,5 +9,6 @@ Coding as an intellectual challange.
 
 "Organize all the data and it will tell you a story..."
 <br>
-          
+
+---          
 ![Snake animation](https://github.com/user-attachments/assets/f233a3c4-eb80-47ac-b3b4-08e712da6ddc)
